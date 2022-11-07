@@ -26,4 +26,4 @@ Prazer! Eu me chamo Alvaro Carvalho de Lima
   <a href="https://www.linkedin.com/in/alvaro-carvalho-de-lima-82429a210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
   </div>
   
-![Snake animation](https://github.com/Asanoo044/Asano044/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Asano044/Asano044/blob/output/github-contribution-grid-snake.svg)
