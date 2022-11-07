@@ -2,6 +2,8 @@
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
 
+📙Atualmente estou estudando React e Modelagem de Dados
+
 <div align="center">
   <a href="https://github.com/Asano044">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Asano044&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
