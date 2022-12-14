@@ -2,7 +2,7 @@
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
 
-📙Atualmente estou estudando React e Modelagem de Dados
+📙Atualmente estou estudando React e Java
 
 <div align="center">
   <a href="https://github.com/Asano044">
@@ -17,6 +17,7 @@ Prazer! Eu me chamo Alvaro Carvalho de Lima
   <img align="center" alt="Alv-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alv-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alv-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Alv-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 </div>
 
 <h2 align="center">Contato:</h2>
