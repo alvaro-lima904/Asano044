@@ -2,7 +2,8 @@
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
 
-📙Atualmente estou estudando React e Java
+📙Atualmente estou estudando PHP e reforçando meus conhecimentos em HTML e CSS
+
 
 <div align="center">
   <a href="https://github.com/Asano044">
