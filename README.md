@@ -2,7 +2,7 @@
 
 Prazer! Eu me chamo Alvaro Carvalho de Lima
 
-📙Atualmente estou estudando Bootstrap e reforçando meus conhecimentos em HTML e CSS
+📙Atualmente estou estudando Java
 
 
 <div align="center">
